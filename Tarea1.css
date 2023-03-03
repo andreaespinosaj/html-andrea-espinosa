@@ -1,0 +1,20 @@
+p {
+  color: red;
+  font-size: 20px;
+  text-align: center;
+  background-color: blue;
+}
+
+#tarea {
+  color: red;
+  font-size: 100px;
+  text-align: center;
+  background-color: blue;
+}
+
+#tarea2 {
+  color: pink;
+  font-size: 50px;
+  text-align: right;
+  background-color: blue;
+}

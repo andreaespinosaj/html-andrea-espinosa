@@ -1,0 +1,42 @@
+#titulo {
+  color: black;
+  font-size: 50px;
+  text-align: left;
+  text-shadow: 3px 1px brown;
+}
+
+a {
+  color: black;
+  font-size: 25px;
+  text-align: left;
+  background-color: yellow;
+}
+
+h {
+  color: green;
+  font-size: 25px;
+  text-align: left;
+}
+
+c,
+d {
+  color: white;
+  font-size: 25px;
+  text-align: left;
+  background-color: black;
+}
+
+e,
+f {
+  color: blue;
+  font-size: 25px;
+  text-align: left;
+  text-transform: uppercase;
+}
+
+g {
+  color: black;
+  font-size: 35px;
+  text-align: left;
+  text-shadow: 2px 3px yellowgreen;
+}
