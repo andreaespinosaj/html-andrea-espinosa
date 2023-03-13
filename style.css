@@ -3,3 +3,13 @@
   margin-left: auto;
   margin-right: auto;
 }
+#imagen2 {
+  display: block;
+  margin-left: 1px;
+  margin-right: auto;
+}
+#imagen3 {
+  display: block;
+  margin-left: auto;
+  margin-right: 1px;
+}
