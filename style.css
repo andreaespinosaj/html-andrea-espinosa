@@ -2,14 +2,17 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
+  filter: drop-shadow(10px 10px 10px yellowgreen);
 }
 #imagen2 {
   display: block;
   margin-left: 1px;
   margin-right: auto;
+  filter: drop-shadow(10px 10px 10px yellowgreen);
 }
 #imagen3 {
   display: block;
   margin-left: auto;
   margin-right: 1px;
+  filter: drop-shadow(10px 10px 10px yellowgreen);
 }
